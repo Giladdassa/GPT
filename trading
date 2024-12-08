@@ -1,0 +1,99 @@
+{
+    "GGD_Version": "1.9",
+    "Sections": [
+        {
+            "Title": "Company Information",
+            "Fields": {
+                "Company": "[Company Name]",
+                "Ticker": "[Ticker]",
+                "Sector": "[Sector]",
+                "What It Does": "[What the company does]",
+                "Market Position": "[Market Position]",
+                "Competitors": "[Competitors]"
+            }
+        },
+        {
+            "Title": "Trend Indicators",
+            "Fields": {
+                "MACD": "[MACD Value]",
+                "ADX": "[ADX Value]",
+                "150-day SMA": "[SMA Value]"
+            }
+        },
+        {
+            "Title": "Support & Resistance",
+            "Fields": {
+                "Resistance": "[Resistance Value]",
+                "Support": "[Support Value]",
+                "Fibonacci Resistance": "[Fibonacci Resistance Value]",
+                "Fibonacci Support": "[Fibonacci Support Value]",
+                "Dynamic Levels": "[Dynamic Level Insights]",
+                "Cluster Analysis": "[Cluster Zone Insights]",
+                "Probability Zones": "[Probability Insights]"
+            }
+        },
+        {
+            "Title": "Volume & Patterns",
+            "Fields": {
+                "Volume Trend": "[Volume Trend]",
+                "Price Action": "[Price Action]"
+            }
+        },
+        {
+            "Title": "Candlestick Patterns",
+            "Fields": {
+                "Bullish Engulfing": "Signals potential continuation.",
+                "Doji": "Market showing hesitation.",
+                "Bullish Marubozu": "Strong indication of upward momentum."
+            }
+        },
+        {
+            "Title": "Sentiment & News Analysis",
+            "Fields": {
+                "Sentiment": "[Sentiment from social media/news]",
+                "News": "[News Analysis]"
+            }
+        },
+        {
+            "Title": "Machine Learning & AI-Powered Predictions",
+            "Fields": {
+                "Prediction": "[Price Prediction or Trends]",
+                "Confidence": "[Confidence Level]"
+            }
+        },
+        {
+            "Title": "Enhanced Risk Management",
+            "Fields": {
+                "Risk/Reward Ratio": "[Ratio]",
+                "Stop-Loss Level": "[Stop-Loss Value]",
+                "Position Size": "[Position Size]"
+            }
+        },
+        {
+            "Title": "Multi-Timeframe Analysis",
+            "Fields": {
+                "Daily": "Short-term trend insights.",
+                "Weekly": "Medium-term trend insights.",
+                "Monthly": "Long-term trend insights."
+            }
+        },
+        {
+            "Title": "Peer & Industry Comparison",
+            "Fields": {
+                "Competitor Revenue Growth": "[Comparison Metric]",
+                "Market Sentiment": "[Comparison Sentiment]"
+            }
+        },
+        {
+            "Title": "Short Percentage",
+            "Fields": {
+                "Current Short Interest": "[Data]",
+                "Percentage of Float": "[Percentage]",
+                "Assessment": "[High/Low/Neutral]",
+                "Next Short Level": "[Insights]"
+            }
+        }
+    ],
+    "Instructions": "Replace the placeholders (e.g., [Company Name], [Ticker]) with the stock information you're analyzing. Use the template in ChatGPT to ask for specific stock analysis or full reports. You can modify the sections as needed based on the stock data you have.",
+    "Disclaimer": "The information provided in this analysis is for informational purposes only. It is not intended as financial advice, and the user is encouraged to conduct their own research or consult with a professional financial advisor before making any investment decisions. The analysis is based on historical data and technical indicators, which do not guarantee future performance. The author and platform are not responsible for any losses or damages incurred through the use of this analysis."
+}
